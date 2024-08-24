@@ -3,7 +3,7 @@
 Welcome to my GitHub profile! I'm passionate about Web Development, Data Science, and Artificial Intelligence.
 
 - 👀 I’m interested in Web Development, Data Science, and Artificial Intelligence.
-- 🌱 I’m currently focusing on learning Web Development.
+- 🌱 I’m currently focusing on learning Data Science.
 - 💞️ I'm eager to collaborate with startup companies on exciting projects.
 - 📫 You can reach me at ali.alghuryafi21@gmail.com.
 
