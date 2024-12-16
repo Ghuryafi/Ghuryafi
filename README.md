@@ -1,6 +1,8 @@
-<h1 align="center">Hi 👋, I'm Ali Alghuryafi</h1>
-<h3 align="center">I’m interested in Data Science, and Artificial Intelligence.</h3>
+<h1 >Hi 👋, I'm Ali Alghuryafi</h1>
+<h3>Software Enginering Student @ KFUPM</h3>
 
+- 🌱 I’m interested in Data Science, and Artificial Intelligence.
+- 👯 I’m looking to collaborate on any project with creative ideas
 - 📫 How to reach me **ali.alghuryafi21@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
